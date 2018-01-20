@@ -1,2 +1,4 @@
 node_modules/
+
 *.idea
+/google-signIn-demo/node_modules/
